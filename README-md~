@@ -1,3 +1,0 @@
-Javascript to use mit phantomjs to fetch http://global.adsbexchange.com/sync and view it local
-
-usage: phantomjs .js http://www.adsbexchange.com/sync
